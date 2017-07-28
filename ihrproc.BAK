@@ -1,8 +1,7 @@
 #define regular "`1234567890-=[];'\,./~!@#$%^&*()_+{}:"|<>?qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
 #define crypt   "`1234567890-=[];'\,./~!@#$%^&*()_+{}:"|<>?qwertyuiopasdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM"
 
-** Прва промена
-** branch developZorica
+
 oXXX=NewIHRReplikator()
 
 PROCEDURE NewIHRReplikator()
