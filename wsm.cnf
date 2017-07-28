@@ -1,0 +1,13 @@
+scm="=kbo^k6tFrLJEH=;<.'*=kbo^kv4L^ko^k6*)')')'*))4ihkm6,,)04=ZmZ[Zl^6blkldhobg4NB=6khhm4IP=6>nk^dZ*+,LJE4<aZkL^m6\i*+.*4HIMBHG6*/"
+scs="=kbo^k6tFrLJEH=;<.'*=kbo^kv4L^ko^k6*)')')'*))4ihkm6,,)/4=ZmZ[Zl^6blkX_^kli^]4NB=6khhm4IP=6>nk^dZ*+,LJE4<aZkL^m6\i*+.*4HIMBHG6*/"
+maxlogsize = 1024000
+checkinterval=5
+ntrs=3
+bsid="bsid02"
+debugon = 1
+
+DOGEN_I = 1
+DOGEN_L = 1
+DOGEN_F = 1
+DOGEN_F0 = 1
+DOGEN_R = 1
