@@ -4,6 +4,8 @@
 ** Прва промена
 ** branch developZorica
 oXXX=NewIHRReplikator()
+** Втора промена
+** branch master
 
 PROCEDURE NewIHRReplikator()
 	SET PROCEDURE TO sys_aux, config ADDITIVE 
