@@ -11,9 +11,15 @@ PROCEDURE NewIHRReplikator()
 	SET PROCEDURE TO sys_aux, config ADDITIVE 
 	RETURN CREATEOBJECT('EIHRREPLIKATOR')
 ENDPROC 
+<<<<<<< HEAD
 ** Трета промена
 ** od kompjuterot na Eleonora vo cloned repository
 
+=======
+
+** Трета промена од мастер
+** има нов корисник дали ќе се види таму проментата
+>>>>>>> d1c2f6e838a6bb3311f011f08eb6887f3d58d51b
 DEFINE CLASS eIHRReplikator as ReplicatorProcess
 processname = 'IHRPROC'
 inipath = ''
