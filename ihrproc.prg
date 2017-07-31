@@ -12,7 +12,8 @@ PROCEDURE NewIHRReplikator()
 	RETURN CREATEOBJECT('EIHRREPLIKATOR')
 ENDPROC 
 
-
+** Трета промена од мастер
+** има нов корисник дали ќе се види таму проментата
 DEFINE CLASS eIHRReplikator as ReplicatorProcess
 processname = 'IHRPROC'
 inipath = ''
